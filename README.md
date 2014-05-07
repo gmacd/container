@@ -1,4 +1,8 @@
 container
 =========
 
-Additional containers for Go
+Some simple containers for Go.
+
+Currently consists of:
+* Set
+* Stack
